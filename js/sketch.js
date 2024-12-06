@@ -1,0 +1,10 @@
+/// <reference path="./p5.global-mode.d.ts" />
+function setup() {
+  // put setup code here
+  createCanvas(400, 400);
+}
+
+function draw() {
+  // put drawing code here
+  background(220);
+}
